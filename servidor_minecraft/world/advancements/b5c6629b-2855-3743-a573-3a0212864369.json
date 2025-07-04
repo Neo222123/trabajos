@@ -8908,6 +8908,12 @@
     },
     "done": true
   },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-07-04 13:06:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
@@ -8929,6 +8935,12 @@
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-07-04 13:06:12 +0000"
     },
     "done": true
   },
@@ -9033,6 +9045,12 @@
       "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
     },
     "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-07-04 13:09:43 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
