@@ -1224,6 +1224,7 @@
       "seasonal_orchard": "2025-07-02 22:50:09 +0000",
       "rocky_rainforest": "2025-07-02 19:14:55 +0000",
       "fir_clearing": "2025-07-04 06:18:08 +0000",
+      "prairie": "2025-07-04 11:26:52 +0000",
       "undergrowth": "2025-07-02 21:41:52 +0000",
       "rainforest": "2025-07-02 19:14:44 +0000",
       "ominous_woods": "2025-07-04 06:12:49 +0000"
@@ -8994,6 +8995,18 @@
   "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/part_memory_2": {
+    "criteria": {
+      "memory1": "2025-07-04 11:24:39 +0000"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/part_energy_2": {
+    "criteria": {
+      "energy1": "2025-07-04 11:24:53 +0000"
     },
     "done": true
   },

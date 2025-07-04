@@ -10376,3 +10376,44 @@ Compiled Descriptor:
 [04Jul2025 11:23:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [04Jul2025 11:24:01.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 11:24:01.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 11:26:46.145] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    STRUCTURE: none
+    STRUCTURE: default
+    STRUCTURE: none
+    STRUCTURE: none
+    BIOME: biomesoplenty:prairie
+    BIOME_CONTROLLER: single
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 11:26:46.146] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: void
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    BIOME CTRL: single
+        BIOME: biomesoplenty:prairie
+    STRUCTURE: minecraft:none
+    STRUCTURE: minecraft:default
+    STRUCTURE: minecraft:none
+    STRUCTURE: minecraft:none
+    FEATURE: spheres
+        BLOCK: mekanism:osmium_ore
+        LIQUID: minecraft:water
+--------------------------------------------------
+[04Jul2025 11:26:46.157] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[04Jul2025 11:26:46.157] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[04Jul2025 11:26:46.157] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[04Jul2025 11:26:46.158] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[04Jul2025 11:26:46.158] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[04Jul2025 11:26:46.158] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[04Jul2025 11:26:46.158] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Redstone Network Space for rftoolsdim:normal_time
+[04Jul2025 11:26:46.158] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Kinetic Network Space for rftoolsdim:normal_time
+[04Jul2025 11:29:01.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 11:29:01.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 11:30:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[04Jul2025 11:30:27.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[04Jul2025 11:34:01.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 11:34:01.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
