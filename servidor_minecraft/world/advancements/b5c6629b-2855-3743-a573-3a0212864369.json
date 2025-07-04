@@ -4333,6 +4333,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-04 06:04:10 +0000",
       "minecraft:nether_wastes": "2025-07-02 21:41:41 +0000",
+      "minecraft:soul_sand_valley": "2025-07-04 07:13:09 +0000",
       "minecraft:basalt_deltas": "2025-07-02 21:33:58 +0000"
     },
     "done": false
@@ -4461,7 +4462,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-07-02 21:38:45 +0000"
+      "incendium:ash_barrens": "2025-07-02 21:38:45 +0000",
+      "incendium:quartz_flats": "2025-07-04 07:12:43 +0000"
     },
     "done": false
   },
@@ -8886,9 +8888,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-04 07:17:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/wireless_access_point": {
     "criteria": {
       "has_wireless_receiver": "2025-07-04 07:08:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_dense_energy_cell": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-04 07:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-04 07:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-04 07:17:51 +0000"
     },
     "done": true
   },
