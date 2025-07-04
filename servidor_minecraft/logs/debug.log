@@ -9761,3 +9761,14 @@ Compiled Descriptor:
 [04Jul2025 06:38:21.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4441ms or 88 ticks behind
 [04Jul2025 06:39:01.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 06:39:01.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 06:40:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[04Jul2025 06:40:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[04Jul2025 06:43:28.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[04Jul2025 06:43:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[04Jul2025 06:43:28.700] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=b5c6629b-2855-3743-a573-3a0212864369, c=(-4,-68), load=false, success=true
+[04Jul2025 06:43:28.700] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=b5c6629b-2855-3743-a573-3a0212864369, c=(-5,-69), load=false, success=true
+[04Jul2025 06:43:28.700] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=b5c6629b-2855-3743-a573-3a0212864369, c=(-4,-69), load=false, success=true
+[04Jul2025 06:44:01.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 06:44:01.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 06:49:01.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 06:49:01.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

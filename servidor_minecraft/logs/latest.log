@@ -1395,3 +1395,7 @@ Compiled Descriptor:
         LIQUID: minecraft:water
 --------------------------------------------------
 [04Jul2025 06:38:21.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4441ms or 88 ticks behind
+[04Jul2025 06:40:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[04Jul2025 06:40:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[04Jul2025 06:43:28.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[04Jul2025 06:43:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
