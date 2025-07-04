@@ -1331,3 +1331,67 @@ Compiled Descriptor:
         BLOCK: minecraft:stone
         LIQUID: mekanism:sulfuric_acid
 --------------------------------------------------
+[04Jul2025 06:29:34.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 9.97862753166072,-0.8000000000000114,-4.308535669145385
+[04Jul2025 06:36:17.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[04Jul2025 06:36:30.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[04Jul2025 06:36:47.194] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    FLUID: minecraft:lava
+    TERRAIN: spikes
+    STRUCTURE: default
+    STRUCTURE: default
+    STRUCTURE: none
+    BIOME: biomesoplenty:fir_clearing
+    BIOME: minecraft:old_growth_pine_taiga
+    BIOME: minecraft:old_growth_birch_forest
+    BIOME: minecraft:river
+    BIOME: minecraft:frozen_river
+    BIOME: biomesoplenty:prairie
+    BIOME: biomesoplenty:wetland
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:36:47.195] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: spikes
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:lava
+    BLOCK: minecraft:stone
+    BIOME CTRL: checker
+        BIOME: biomesoplenty:fir_clearing
+        BIOME: minecraft:old_growth_pine_taiga
+        BIOME: minecraft:old_growth_birch_forest
+        BIOME: minecraft:river
+        BIOME: minecraft:frozen_river
+        BIOME: biomesoplenty:prairie
+        BIOME: biomesoplenty:wetland
+    STRUCTURE: minecraft:default
+    STRUCTURE: minecraft:default
+    STRUCTURE: minecraft:none
+    FEATURE: spheres
+        BLOCK: minecraft:white_wool
+        LIQUID: minecraft:water
+--------------------------------------------------
+[04Jul2025 06:38:16.715] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    STRUCTURE: default
+    BIOME_CATEGORY: ocean
+    BIOME_CONTROLLER: default
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:38:16.715] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: void
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    BIOME CTRL: default
+        CATEGORY: minecraft:ocean
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:white_wool
+        LIQUID: minecraft:water
+--------------------------------------------------
+[04Jul2025 06:38:21.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4441ms or 88 ticks behind
