@@ -1505,3 +1505,5 @@ Compiled Descriptor:
 [04Jul2025 09:17:20.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gamerule doWeatherCycle is now set to: false]
 [04Jul2025 10:47:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [04Jul2025 10:47:46.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[04Jul2025 10:54:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Needs More Speeeeed!]
+[04Jul2025 10:55:27.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
