@@ -7222,7 +7222,8 @@
   },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
-      "gem": "2025-07-03 03:32:50 +0000"
+      "gem": "2025-07-03 03:32:50 +0000",
+      "ingot": "2025-07-04 10:53:37 +0000"
     },
     "done": false
   },
@@ -8888,9 +8889,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-04 07:40:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
     },
     "done": true
   },
@@ -8906,6 +8919,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
     "criteria": {
       "has_energy_cell": "2025-07-04 07:14:16 +0000"
@@ -8918,15 +8937,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
     "criteria": {
       "has_energy_cell": "2025-07-04 07:14:16 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/carddistribution": {
+    "criteria": {
+      "has_advanced_card": "2025-07-04 10:40:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/wireless_access_point": {
     "criteria": {
       "has_wireless_receiver": "2025-07-04 07:08:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
     },
     "done": true
   },
@@ -8942,6 +9003,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
   "mekanism:reinforced_alloy": {
     "criteria": {
       "alloy_reinforced": "2025-07-04 10:14:37 +0000"
@@ -8951,6 +9024,24 @@
   "ae2:recipes/misc/network/blocks/energy_dense_energy_cell": {
     "criteria": {
       "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
     },
     "done": true
   },
@@ -8966,9 +9057,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-07-04 10:53:22 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-07-04 07:12:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardspeed": {
+    "criteria": {
+      "has_advanced_card": "2025-07-04 10:40:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardinverter": {
+    "criteria": {
+      "has_advanced_card": "2025-07-04 10:40:54 +0000"
     },
     "done": true
   },
@@ -8978,9 +9105,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/cardenergy": {
+    "criteria": {
+      "has_advanced_card": "2025-07-04 10:40:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
+    },
+    "done": true
+  },
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2025-07-04 08:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
     },
     "done": true
   },
@@ -8993,6 +9138,12 @@
   "mekanism:infusing_efficiency": {
     "criteria": {
       "enriched_material": "2025-07-04 09:01:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardfuzzy": {
+    "criteria": {
+      "has_advanced_card": "2025-07-04 10:40:54 +0000"
     },
     "done": true
   },
