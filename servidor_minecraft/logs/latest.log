@@ -1199,3 +1199,135 @@ Compiled Descriptor:
         BLOCK: minecraft:glass
         LIQUID: mekanism:sulfuric_acid
 --------------------------------------------------
+[04Jul2025 06:17:52.747] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    ATTRIBUTE: waterworld
+    ATTRIBUTE: waterworld
+    FLUID: minecraft:water
+    TERRAIN: void
+    STRUCTURE: default
+    BIOME: minecraft:small_end_islands
+    BIOME: minecraft:deep_ocean
+    BIOME: biomesoplenty:fir_clearing
+    BIOME_CONTROLLER: default
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:17:52.748] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: void
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    ATTR: waterworld
+    BIOME CTRL: default
+        BIOME: minecraft:small_end_islands
+        BIOME: minecraft:deep_ocean
+        BIOME: biomesoplenty:fir_clearing
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:glass
+        LIQUID: minecraft:lava
+--------------------------------------------------
+[04Jul2025 06:17:58.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[04Jul2025 06:19:53.600] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity LEGENDARY: 4
+[04Jul2025 06:20:15.821] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity UNCOMMON: 75
+[04Jul2025 06:21:34.295] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    ATTRIBUTE: default
+    FLUID: minecraft:water
+    TERRAIN: normal
+    STRUCTURE: default
+    SKY: blackfog
+    SKY: thickblackfog
+    BIOME: minecraft:river
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:21:34.295] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: normal
+    TIME: normal
+    SKY: THICKBLACKFOG BLACKFOG 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    ATTR: default
+    BIOME CTRL: checker
+        BIOME: minecraft:river
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:stone
+        LIQUID: minecraft:lava
+--------------------------------------------------
+[04Jul2025 06:21:36.343] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity UNCOMMON: 75
+[04Jul2025 06:21:49.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[04Jul2025 06:25:26.296] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    BLOCK: biomesoplenty:smooth_black_sandstone
+    ATTRIBUTE: nooceans
+    ATTRIBUTE: waterworld
+    FLUID: minecraft:water
+    TERRAIN: platforms
+    STRUCTURE: default
+    SKY: thickblackfog
+    BIOME: minecraft:stony_peaks
+    BIOME: minecraft:end_midlands
+    BIOME: minecraft:sunflower_plains
+    BIOME: biomesoplenty:crystalline_chasm
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:25:26.296] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: platforms
+    TIME: normal
+    SKY: THICKBLACKFOG 
+    LIQUID: minecraft:water
+    BLOCK: biomesoplenty:smooth_black_sandstone
+    ATTR: nooceans
+    ATTR: waterworld
+    BIOME CTRL: checker
+        BIOME: minecraft:stony_peaks
+        BIOME: minecraft:end_midlands
+        BIOME: minecraft:sunflower_plains
+        BIOME: biomesoplenty:crystalline_chasm
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:stone
+        LIQUID: mekanism:sulfuric_acid
+--------------------------------------------------
+[04Jul2025 06:25:42.450] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity LEGENDARY: 4
+[04Jul2025 06:26:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Applied effect Strength to TheForgottenNeo]
+[04Jul2025 06:26:39.213] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=56, y=94, z=-232}
+[04Jul2025 06:26:52.881] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=-264, y=220, z=8}
+[04Jul2025 06:27:00.880] [Worker-Main-1/INFO] [End's Phantasm/]: Hi BlockPos{x=-248, y=239, z=296}
+[04Jul2025 06:27:03.161] [Worker-Main-1/INFO] [End's Phantasm/]: Hi BlockPos{x=8, y=155, z=312}
+[04Jul2025 06:27:13.279] [Worker-Main-1/INFO] [End's Phantasm/]: Hi BlockPos{x=328, y=253, z=296}
+[04Jul2025 06:27:32.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[04Jul2025 06:28:31.991] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    STRUCTURE: none
+    BIOME: minecraft:snowy_beach
+    BIOME: minecraft:frozen_ocean
+    BIOME: minecraft:savanna_plateau
+    BIOME: minecraft:taiga
+    BIOME_CONTROLLER: single
+    TIME: normal
+--------------------------------------------------
+[04Jul2025 06:28:31.991] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: void
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: minecraft:stone
+    BIOME CTRL: single
+        BIOME: minecraft:snowy_beach
+        BIOME: minecraft:frozen_ocean
+        BIOME: minecraft:savanna_plateau
+        BIOME: minecraft:taiga
+    STRUCTURE: minecraft:none
+    FEATURE: tendrils
+        BLOCK: minecraft:stone
+        LIQUID: mekanism:sulfuric_acid
+--------------------------------------------------
