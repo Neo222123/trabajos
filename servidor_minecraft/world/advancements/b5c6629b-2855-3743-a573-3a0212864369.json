@@ -8886,5 +8886,11 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/wireless_access_point": {
+    "criteria": {
+      "has_wireless_receiver": "2025-07-04 07:08:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

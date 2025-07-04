@@ -1404,3 +1404,5 @@ Compiled Descriptor:
 [04Jul2025 06:50:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
 [04Jul2025 06:50:19.178] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
 [04Jul2025 06:50:19.179] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[04Jul2025 07:06:35.051] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -51, 65, -1090, dim=minecraft:overworld]
+[04Jul2025 07:06:35.051] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -51, 65, -1090, dim=minecraft:overworld]
