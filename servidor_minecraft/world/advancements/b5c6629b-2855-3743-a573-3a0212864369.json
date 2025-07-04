@@ -8888,6 +8888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-04 07:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-07-04 07:17:51 +0000"
@@ -8924,9 +8930,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-04 07:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-04 07:40:49 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/energy_dense_energy_cell": {
     "criteria": {
       "has_energy_cell": "2025-07-04 07:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-04 07:40:49 +0000"
     },
     "done": true
   },
