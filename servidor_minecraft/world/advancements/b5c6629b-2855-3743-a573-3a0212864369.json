@@ -8890,6 +8890,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-04 12:24:01 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-07-04 10:48:55 +0000"
