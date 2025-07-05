@@ -9262,6 +9262,12 @@
     },
     "done": true
   },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2025-07-05 06:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-05 06:01:50 +0000"
@@ -9334,9 +9340,21 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-07-05 06:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-05 06:07:56 +0000"
     },
     "done": true
   },
@@ -9361,6 +9379,12 @@
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-05 06:07:56 +0000"
     },
     "done": true
   },
@@ -9394,9 +9418,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-05 06:07:56 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/ink_sac": {
     "criteria": {
       "has_squid_beak": "2025-07-05 06:01:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2025-07-05 06:04:16 +0000"
     },
     "done": true
   },
@@ -9427,6 +9463,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-07-05 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-07-05 06:03:04 +0000"
     },
     "done": true
   },
