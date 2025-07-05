@@ -9473,3 +9473,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [05Jul2025 03:15:41.513] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -87, 71, -1072, dim=minecraft:overworld]
 [05Jul2025 03:17:20.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 03:17:20.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:22:19.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:22:20.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:22:56.757] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    BLOCK: tconstruct:yellow_clear_stained_glass
+    ATTRIBUTE: default
+    ATTRIBUTE: nooceans
+    TERRAIN: flat
+    STRUCTURE: default
+    BIOME: minecraft:end_highlands
+    BIOME: minecraft:bamboo_jungle
+    BIOME: biomesoplenty:orchard
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[05Jul2025 03:22:56.758] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: flat
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: tconstruct:yellow_clear_stained_glass
+    ATTR: default
+    ATTR: nooceans
+    BIOME CTRL: checker
+        BIOME: minecraft:forest
+        BIOME: minecraft:end_highlands
+        BIOME: minecraft:bamboo_jungle
+        BIOME: biomesoplenty:orchard
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:stone
+        LIQUID: minecraft:lava
+--------------------------------------------------
+[05Jul2025 03:22:56.778] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[05Jul2025 03:22:56.778] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces-client.toml
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loading config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Built TOML config for /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [ironfurnaces.IronFurnaces/]: Loaded TOML config file /workspaces/trabajos/servidor_minecraft/config/ironfurnaces.toml
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Redstone Network Space for rftoolsdim:normal_time
+[05Jul2025 03:22:56.779] [Server thread/DEBUG] [com.simibubi.create.Create/]: Prepared Kinetic Network Space for rftoolsdim:normal_time
+[05Jul2025 03:22:57.461] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from phantasm.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Jul2025 03:22:57.470] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 03:22:57.472] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 03:22:57.774] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jul2025 03:23:16.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[05Jul2025 03:23:32.429] [Worker-Main-1/INFO] [End's Phantasm/]: Hi BlockPos{x=-264, y=120, z=8}
+[05Jul2025 03:23:40.259] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=56, y=120, z=-232}
+[05Jul2025 03:24:16.262] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=-248, y=120, z=296}
+[05Jul2025 03:24:17.153] [Worker-Main-3/INFO] [End's Phantasm/]: Hi BlockPos{x=8, y=120, z=312}
+[05Jul2025 03:27:22.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:27:22.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:28:11.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind

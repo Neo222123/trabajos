@@ -1093,3 +1093,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [05Jul2025 03:15:38.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-87.75380074977875, 71.125, -1070.9973282814026) too far away from hit block BlockPos{x=-87, y=73, z=-1072}.
 [05Jul2025 03:15:41.513] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -87, 71, -1072, dim=minecraft:overworld]
 [05Jul2025 03:15:41.513] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -87, 71, -1072, dim=minecraft:overworld]
+[05Jul2025 03:22:56.757] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Attempting to create dimension:
+    BLOCK: tconstruct:yellow_clear_stained_glass
+    ATTRIBUTE: default
+    ATTRIBUTE: nooceans
+    TERRAIN: flat
+    STRUCTURE: default
+    BIOME: minecraft:end_highlands
+    BIOME: minecraft:bamboo_jungle
+    BIOME: biomesoplenty:orchard
+    BIOME_CONTROLLER: checker
+    TIME: normal
+--------------------------------------------------
+[05Jul2025 03:22:56.758] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: --------------------------------------------------
+Compiled Descriptor:
+    TERRAIN: flat
+    TIME: normal
+    SKY: 
+    LIQUID: minecraft:water
+    BLOCK: tconstruct:yellow_clear_stained_glass
+    ATTR: default
+    ATTR: nooceans
+    BIOME CTRL: checker
+        BIOME: minecraft:forest
+        BIOME: minecraft:end_highlands
+        BIOME: minecraft:bamboo_jungle
+        BIOME: biomesoplenty:orchard
+    STRUCTURE: minecraft:default
+    FEATURE: spheres
+        BLOCK: minecraft:stone
+        LIQUID: minecraft:lava
+--------------------------------------------------
+[05Jul2025 03:23:16.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[05Jul2025 03:23:32.429] [Worker-Main-1/INFO] [End's Phantasm/]: Hi BlockPos{x=-264, y=120, z=8}
+[05Jul2025 03:23:40.259] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=56, y=120, z=-232}
+[05Jul2025 03:24:16.262] [Worker-Main-2/INFO] [End's Phantasm/]: Hi BlockPos{x=-248, y=120, z=296}
+[05Jul2025 03:24:17.153] [Worker-Main-3/INFO] [End's Phantasm/]: Hi BlockPos{x=8, y=120, z=312}
+[05Jul2025 03:28:11.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
