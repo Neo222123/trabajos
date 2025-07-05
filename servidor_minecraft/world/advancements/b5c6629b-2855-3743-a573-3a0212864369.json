@@ -9251,6 +9251,12 @@
     },
     "done": true
   },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-07-05 12:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-07-05 03:26:37 +0000"
@@ -9380,6 +9386,12 @@
   "mekanism:digital_miner": {
     "criteria": {
       "digital_miner": "2025-07-05 12:02:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-07-05 12:30:34 +0000"
     },
     "done": true
   },
