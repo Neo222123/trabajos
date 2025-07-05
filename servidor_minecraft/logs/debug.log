@@ -9700,3 +9700,15 @@ Compiled Descriptor:
 [05Jul2025 09:12:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 09:17:27.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 09:17:27.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 09:18:46.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 09:19:12.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 09:22:27.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 09:22:27.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 09:23:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Almost Unkillable]
+[05Jul2025 09:23:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was blown up by Creeper
+[05Jul2025 09:23:57.483] [Server thread/DEBUG] [tombstone/]: A new grave of the player TheForgottenNeo was created at position [x:-95, y:16, z:-1030, dim:minecraft:overworld]
+[05Jul2025 09:23:57.490] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[05Jul2025 09:24:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Spectator Mode]
+[05Jul2025 09:24:25.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 09:27:27.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 09:27:27.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
