@@ -9840,3 +9840,7 @@ Compiled Descriptor:
 [05Jul2025 11:46:02.425] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -213, 186, -787, dim=minecraft:overworld]
 [05Jul2025 11:47:27.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 11:47:27.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 11:52:27.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 11:52:27.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 11:57:27.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 11:57:27.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
