@@ -9226,6 +9226,12 @@
     },
     "done": false
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-07-05 06:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-05 03:26:37 +0000"
