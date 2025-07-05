@@ -1206,3 +1206,13 @@ Compiled Descriptor:
 [05Jul2025 11:12:43.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=24, z=-78} BlockPos{x=-30, y=22, z=-74}
 [05Jul2025 11:12:44.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=21, z=-74} BlockPos{x=-27, y=22, z=-74}
 [05Jul2025 11:12:48.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=25, z=-63} BlockPos{x=-20, y=26, z=-57}
+[05Jul2025 11:20:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 11:20:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 11:23:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 11:23:35.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 11:25:42.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 11:26:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 11:29:20.095] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -213, 186, -786, dim=minecraft:overworld]
+[05Jul2025 11:29:20.095] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -213, 186, -786, dim=minecraft:overworld]
+[05Jul2025 11:29:54.787] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -213, 186, -785, dim=minecraft:overworld]
+[05Jul2025 11:29:54.787] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -213, 186, -785, dim=minecraft:overworld]
