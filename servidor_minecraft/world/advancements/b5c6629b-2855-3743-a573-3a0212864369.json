@@ -9322,6 +9322,12 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2025-07-05 05:23:56 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/yellow_clear_stained_glass_pane": {
     "criteria": {
       "has_block": "2025-07-05 03:27:05 +0000"
