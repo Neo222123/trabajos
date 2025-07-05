@@ -9626,3 +9626,7 @@ Compiled Descriptor:
 [05Jul2025 06:52:27.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 06:54:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [05Jul2025 06:55:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 06:57:27.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 06:57:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:02:27.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:02:27.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
