@@ -9244,6 +9244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-07-05 03:25:11 +0000"
@@ -9256,9 +9262,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-05 06:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
   "mekanism:pump": {
     "criteria": {
       "electric_pump": "2025-07-05 05:14:28 +0000"
+    },
+    "done": true
+  },
+  "mekanism:radiation_prevention": {
+    "criteria": {
+      "full_set": "2025-07-05 06:01:56 +0000"
     },
     "done": true
   },
@@ -9280,6 +9310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
   "mekanism:teleportation_core": {
     "criteria": {
       "teleportation_core": "2025-07-05 05:14:46 +0000"
@@ -9298,6 +9334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-07-05 03:26:37 +0000"
@@ -9313,6 +9355,18 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-07-05 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/kraken_shell_fragment": {
+    "criteria": {
+      "has_squid_beak": "2025-07-05 06:01:41 +0000"
     },
     "done": true
   },
@@ -9340,6 +9394,18 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ink_sac": {
+    "criteria": {
+      "has_squid_beak": "2025-07-05 06:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-05 03:24:31 +0000"
@@ -9352,9 +9418,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-07-05 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-05 06:01:50 +0000"
     },
     "done": true
   },
