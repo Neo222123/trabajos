@@ -1237,3 +1237,5 @@ Compiled Descriptor:
 [05Jul2025 11:46:02.425] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -213, 186, -787, dim=minecraft:overworld]
 [05Jul2025 11:46:02.425] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -213, 186, -787, dim=minecraft:overworld]
 [05Jul2025 12:02:55.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Trapped Inside]
+[05Jul2025 12:19:52.890] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -218, 186, -797, dim=minecraft:overworld]
+[05Jul2025 12:19:52.890] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -218, 186, -797, dim=minecraft:overworld]

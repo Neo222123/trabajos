@@ -9479,6 +9479,12 @@
     },
     "done": true
   },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-07-05 12:09:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-05 06:07:56 +0000"
