@@ -317,22 +317,22 @@
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
 	#Range: > 1
-	fluidTankCapacity = 1
+	fluidTankCapacity = 8
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.
 	#Range: > 1
-	fluidTankMaxHeight = 1
+	fluidTankMaxHeight = 128
 	#.
 	#[in Blocks]
 	#The maximum distance a mechanical pump can push or pull liquids on either side.
 	#Range: > 1
-	mechanicalPumpRange = 1
+	mechanicalPumpRange = 2
 	#.
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
 	#Range: > 1
-	hosePulleyRange = 1
+	hosePulleyRange = 8
 	#.
 	#[in Blocks]
 	#[-1 to disable this behaviour]
