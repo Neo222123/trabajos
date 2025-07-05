@@ -9654,3 +9654,7 @@ Compiled Descriptor:
 [05Jul2025 07:40:14.198] [Server thread/DEBUG] [FTB Chunks/]: force chunk (forge): mod=ftbchunks owner=b5c6629b-2855-3743-a573-3a0212864369, c=(-12,-63), load=true, success=true
 [05Jul2025 07:42:27.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 07:42:27.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:47:27.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:47:27.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:52:27.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:52:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
