@@ -1177,3 +1177,6 @@ Compiled Descriptor:
 [05Jul2025 10:36:01.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
 [05Jul2025 10:36:07.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [05Jul2025 10:43:00.709] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity LEGENDARY: 4
+[05Jul2025 10:54:36.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
+[05Jul2025 10:57:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 10:57:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]

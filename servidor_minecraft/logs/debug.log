@@ -9757,3 +9757,14 @@ Compiled Descriptor:
 [05Jul2025 10:43:00.709] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Patterns for rarity LEGENDARY: 4
 [05Jul2025 10:47:27.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 10:47:27.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 10:52:27.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 10:52:27.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 10:54:36.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
+[05Jul2025 10:57:27.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 10:57:27.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 10:57:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[05Jul2025 10:57:45.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[05Jul2025 11:02:27.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 11:02:27.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 11:07:27.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 11:07:27.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -9329,6 +9329,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-07-05 10:55:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-07-05 11:02:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-07-05 06:01:50 +0000"
@@ -9410,6 +9422,12 @@
   "reliquary:recipes/misc/kraken_shell_fragment": {
     "criteria": {
       "has_squid_beak": "2025-07-05 06:01:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-07-05 10:55:50 +0000"
     },
     "done": true
   },
