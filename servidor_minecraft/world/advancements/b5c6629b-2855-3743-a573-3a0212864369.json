@@ -9233,6 +9233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-05 12:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-05 03:26:37 +0000"
@@ -9278,6 +9284,12 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-05 06:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-05 12:00:04 +0000"
     },
     "done": true
   },
@@ -9362,6 +9374,12 @@
   "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
     "criteria": {
       "has_void_upgrade": "2025-07-05 11:17:50 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-07-05 12:02:55 +0000"
     },
     "done": true
   },
