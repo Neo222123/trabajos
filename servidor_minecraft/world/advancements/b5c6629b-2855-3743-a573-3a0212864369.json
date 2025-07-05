@@ -9227,12 +9227,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-05 11:37:27 +0000"
-    },
-    "done": false
-  },
   "create:glass_pipe": {
     "criteria": {
       "0": "2025-07-05 06:30:51 +0000"
