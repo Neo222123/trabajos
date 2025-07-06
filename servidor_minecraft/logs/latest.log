@@ -1255,3 +1255,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [06Jul2025 09:16:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Not Great, Not Terrible]
 [06Jul2025 09:16:46.300] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
 [06Jul2025 09:17:48.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Get Your Tweak On]
+[06Jul2025 09:58:57.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-188.8125, 90.68869078159332, -1003.5734543502331) too far away from hit block BlockPos{x=-189, y=89, z=-1004}.
+[06Jul2025 09:59:58.010] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was already registered at location! [Coord4D: -189, 86, -1004, dim=minecraft:overworld]
+[06Jul2025 09:59:58.011] [Server thread/ERROR] [mekanism.common.Mekanism/]: Different orphan transmitter was registered at location during removal! [Coord4D: -189, 86, -1004, dim=minecraft:overworld]
+[06Jul2025 10:00:16.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-188.51485487818718, 88.60422360897064, -1002.75) too far away from hit block BlockPos{x=-189, y=87, z=-1003}.
+[06Jul2025 10:00:37.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-188.56085327267647, 88.53637564182281, -1002.75) too far away from hit block BlockPos{x=-189, y=87, z=-1003}.
