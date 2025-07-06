@@ -9582,6 +9582,24 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-06 09:06:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-06 09:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-06 09:06:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-06 08:03:17 +0000"
@@ -9594,6 +9612,12 @@
     },
     "done": true
   },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-07-06 09:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-06 08:03:17 +0000"
@@ -9603,6 +9627,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-06 08:03:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-06 09:06:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning_death": {
+    "criteria": {
+      "death": "2025-07-06 09:16:46 +0000"
     },
     "done": true
   },

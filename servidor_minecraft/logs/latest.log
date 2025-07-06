@@ -1245,3 +1245,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [06Jul2025 09:00:29.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=17, z=-385} BlockPos{x=180, y=17, z=-387}
 [06Jul2025 09:00:30.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=15, z=-385} BlockPos{x=180, y=15, z=-385}
 [06Jul2025 09:00:30.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=16, z=-384} BlockPos{x=182, y=16, z=-383}
+[06Jul2025 09:06:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Cover Me in Debris]
+[06Jul2025 09:07:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[06Jul2025 09:10:16.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[06Jul2025 09:10:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed
+[06Jul2025 09:10:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed TheForgottenNeo]
+[06Jul2025 09:10:26.774] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[06Jul2025 09:16:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed by radiation poisoning.
+[06Jul2025 09:16:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Not Great, Not Terrible]
+[06Jul2025 09:16:46.300] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[06Jul2025 09:17:48.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Get Your Tweak On]
