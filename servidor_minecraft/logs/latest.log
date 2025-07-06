@@ -1306,3 +1306,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [06Jul2025 10:53:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [06Jul2025 10:54:38.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
 [06Jul2025 10:54:38.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[06Jul2025 10:56:35.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:49671] logged in with entity id 96192 at (-175.14776275514197, 84.0, -1000.4336030575988)
+[06Jul2025 10:56:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[06Jul2025 10:56:35.958] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
+[06Jul2025 10:56:35.958] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[06Jul2025 11:02:42.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[06Jul2025 11:03:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
