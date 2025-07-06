@@ -1290,3 +1290,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [06Jul2025 10:13:02.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=15, z=-429} BlockPos{x=-1, y=15, z=-423}
 [06Jul2025 10:13:06.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=16, z=-425} BlockPos{x=2, y=16, z=-427}
 [06Jul2025 10:13:06.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=16, z=-425} BlockPos{x=3, y=16, z=-428}
+[06Jul2025 10:15:54.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=62, z=-987} BlockPos{x=-152, y=68, z=-997}
+[06Jul2025 10:15:55.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=64, z=-994} BlockPos{x=-150, y=64, z=-996}
+[06Jul2025 10:27:48.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-188.59949603676796, 88.72459805011749, -1002.8125) too far away from hit block BlockPos{x=-189, y=87, z=-1003}.
+[06Jul2025 10:27:49.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from TheForgottenNeo: Location (-188.6194284260273, 88.50579869747162, -1002.75) too far away from hit block BlockPos{x=-189, y=87, z=-1003}.
+[06Jul2025 10:28:42.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[06Jul2025 10:29:09.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[06Jul2025 10:29:09.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
