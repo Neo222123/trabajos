@@ -1092,3 +1092,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [06Jul2025 07:44:38.118] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
 [06Jul2025 07:44:38.127] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
 [06Jul2025 07:50:11.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3097, l='ServerLevel[world]', x=-177.63, y=-244.08, z=-138.28] died, message: 'Unemployed fell out of the world'
+[06Jul2025 08:27:02.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
