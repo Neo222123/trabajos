@@ -9663,9 +9663,10 @@
   },
   "mekanism:sps": {
     "criteria": {
-      "sps_casing": "2025-07-07 09:02:46 +0000"
+      "sps_casing": "2025-07-07 09:02:46 +0000",
+      "sps_port": "2025-07-07 15:06:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
