@@ -9666,6 +9666,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-07 09:46:42 +0000"
+    },
+    "done": false
+  },
   "mekanism:laser": {
     "criteria": {
       "laser": "2025-07-07 09:34:20 +0000"

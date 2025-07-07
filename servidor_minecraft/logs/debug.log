@@ -9800,3 +9800,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [07Jul2025 09:31:43.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 09:36:43.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 09:36:43.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 09:41:43.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 09:41:43.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 09:44:16.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=38, z=-1050} BlockPos{x=-5, y=39, z=-1050}
+[07Jul2025 09:44:24.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=9, z=-1050} BlockPos{x=-5, y=10, z=-1050}
+[07Jul2025 09:44:54.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=-56, z=-1076} BlockPos{x=2, y=-57, z=-1076}
+[07Jul2025 09:44:54.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=-56, z=-1076} BlockPos{x=2, y=-57, z=-1076}
+[07Jul2025 09:45:34.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-26, z=-1061} BlockPos{x=11, y=-27, z=-1058}
+[07Jul2025 09:45:34.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-27, z=-1055} BlockPos{x=11, y=-27, z=-1058}
+[07Jul2025 09:45:34.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-28, z=-1055} BlockPos{x=11, y=-27, z=-1058}
+[07Jul2025 09:46:43.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 09:46:43.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

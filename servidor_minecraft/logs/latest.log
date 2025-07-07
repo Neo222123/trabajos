@@ -1099,3 +1099,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [07Jul2025 09:27:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
 [07Jul2025 09:27:59.201] [Server thread/INFO] [Jade/]: Syncing config to TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369)
 [07Jul2025 09:27:59.201] [Server thread/INFO] [mcjty.lib.setup.DefaultModSetup/]: Client logged in: sending dimlet packages
+[07Jul2025 09:44:16.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=38, z=-1050} BlockPos{x=-5, y=39, z=-1050}
+[07Jul2025 09:44:24.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=9, z=-1050} BlockPos{x=-5, y=10, z=-1050}
+[07Jul2025 09:44:54.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=-56, z=-1076} BlockPos{x=2, y=-57, z=-1076}
+[07Jul2025 09:44:54.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=-56, z=-1076} BlockPos{x=2, y=-57, z=-1076}
+[07Jul2025 09:45:34.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-26, z=-1061} BlockPos{x=11, y=-27, z=-1058}
+[07Jul2025 09:45:34.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-27, z=-1055} BlockPos{x=11, y=-27, z=-1058}
+[07Jul2025 09:45:34.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=-28, z=-1055} BlockPos{x=11, y=-27, z=-1058}
